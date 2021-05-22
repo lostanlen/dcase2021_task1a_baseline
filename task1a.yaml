@@ -54,7 +54,7 @@ defaults:
     active_fold_list: !!null
 
   path:
-    dataset: /lustre/TAU-UAS2020/ #datasets/ #
+    dataset: /scratch/vl1019/TAU2020/ #datasets/ #
     log: log/
     application:
       base: system/task1a
