@@ -57,7 +57,7 @@ defaults:
     dataset: /scratch/vl1019/TAU2020/ #datasets/ #
     log: log/
     application:
-      base: system/task1a
+      base: /scratch/vl1019/TAU2020/system
       feature_extractor: features
       feature_normalizer: normalization
       learner: learner
